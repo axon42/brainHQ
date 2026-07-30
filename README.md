@@ -1,5 +1,6 @@
 # brainHQ
 
+![brainHQ logo](./resources/logo/brainHQ-Logo.png)
 
 
 # Core idea 
