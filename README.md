@@ -1,6 +1,8 @@
 # brainHQ
 
-<img src = "./resources/logo/brainHQ-Logo.png" width = "50%" alt = "BrainHQ Logo">
+<p align ="center">
+    <img src = "./resources/logo/brainHQ-Logo.png" width = "50%" >
+</p>
 
 
 # Core idea 
