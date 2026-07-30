@@ -1,6 +1,6 @@
 # brainHQ
 
-![brainHQ logo](./resources/logo/brainHQ-Logo.png)
+<img src = "./resources/logo/brainHQ-Logo.png" width = "50%" alt = "BrainHQ Logo">
 
 
 # Core idea 
