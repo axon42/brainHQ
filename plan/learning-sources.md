@@ -11,7 +11,9 @@
 - AI Engineering
     - AI Engineering by Chip Huyen
 
-# Articles
 
+# Courses 
+- Agentic AI ( Andrew Ng)
+- Agentic Knowledge graph construction 
+- Red Teaming LLM applications ( optional )
 
-# Videos
